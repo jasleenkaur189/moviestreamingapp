@@ -1,0 +1,9 @@
+Database collection for my project:
+
+UserCollection - UserID,Username,Email,Password ,Subscription status
+
+MovieCollection- MovieID ,Title,Description ,Duration ,Rating,Streaming URL
+
+ReviewCollection- Rating ,Comment
+
+WatchlistCollection- WatchlistID
